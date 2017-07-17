@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height">Fill in fields below :</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="getheight">Height [cm]</string>
+    <string name="getweight">Weight [kg]</string>
+    <string name="result1">"    "</string>
+    <string name="comment">"    "</string>
+    <string name="comment2">"    "</string>
+    <string name="norma">Weight is normal</string>
+    <string name="bmi">Your BMI is</string>
+    <string name="fitA">Starvation</string>
+    <string name="fitB">Emaciation</string>
+    <string name="fitC">Underweight</string>
+    <string name="fitD">Normal</string>
+    <string name="fatE">Fat</string>
+    <string name="fatF">Obesity I grade</string>
+    <string name="fatG">Obesity II grade</string>
+    <string name="fatH">Obiesity extreme</string>
+    <string name="suggestion">Your weight should be between</string>
+    <string name="aa">and</string>
+    <string name="kg">kg</string>
+    <string name="mistake">Unknown data. I cant calculate...</string>
+    <string name="back">calculate again</string>
+    <string name="send">share</string>
+    <string name="myBMI">My BMI is :</string>
+    <string name="save">save</string>
+    <string name="history">history</string>
+    <string name="ToastY">saved successfully</string>
+    <string name="ToastN">ailed to save data</string>
+
+
+    <!--<string type="norma" name="normaSuffix"></string>-->
+</resources>

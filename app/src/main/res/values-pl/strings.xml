@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Kalkulator</string>
+    <string name="height">Uzupełnij pola poniżej :</string>
+    <string name="weight">Waga</string>
+    <string name="calculate">Oblicz</string>
+    <string name="clear">Czyść</string>
+    <string name="getheight">Wzrost [cm]</string>
+    <string name="getweight">Waga [kg]</string>
+    <string name="result">"    "</string>
+    <string name="comment">"    "</string>
+    <string name="comment2">"    "</string>
+    <string name="norma">Waga w normie</string>
+    <string name="bmi">Twój BMI wynosi</string>
+    <string name="fitA">Wygłodzenie</string>
+    <string name="fitB">Wychudzenie</string>
+    <string name="fitC">Niedowaga</string>
+    <string name="fitD">Normalna</string>
+    <string name="fatE">Nadwaga</string>
+    <string name="fatF">Otyłość I stopnia</string>
+    <string name="fatG">Otyłość II stopnia</string>
+    <string name="fatH">Otyłość III stopnia</string>
+    <string name="oooo">Powinieneś ważyć pomiędzy</string>
+    <string name="aa">a</string>
+    <string name="kg">kg</string>
+    <string name="mistake">Nieprawidłowe dane. Nie mogę obliczyć.</string>
+    <string name="suggestion">Waga powinna być pomiędzy</string>
+    <string name="send">udostępnij</string>
+    <string name="myBMI">Moje BMI wynosi :</string>
+    <string name="back">oblicz ponownie</string>
+    <string name="save">zapisz</string>
+    <string name="history">historia</string>
+    <string name="ToastY">Dane zapisane</string>
+    <string name="ToastN">Błąd, nie udało zapisać się danych</string>
+</resources>

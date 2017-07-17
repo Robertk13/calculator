@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculadora</string>
+    <string name="height">Crecimiento</string>
+    <string name="weight">Peso</string>
+    <string name="calculate">Calcular</string>
+    <string name="clear">Limpiar</string>
+    <string name="getheight">en centimetros</string>
+    <string name="getweight">en kilogramos</string>
+    <string name="result">"    "</string>
+    <string name="comment">"    "</string>
+    <string name="comment2">"    "</string>
+    <string name="norma">Peso normal</string>
+    <string name="bmi">Su BMI es</string>
+    <string name="fitA">Inanición</string>
+    <string name="fitB">Demacracion</string>
+    <string name="fitC">Bajo peso</string>
+    <string name="fitD">Normal</string>
+    <string name="fatE">Sobrepeso</string>
+    <string name="fatF">Obesidad I el grado</string>
+    <string name="fatG">Obesidad II el grado</string>
+    <string name="fatH">Obesidad III el grado</string>
+    <string name="oooo">Su peso debr ser</string>
+    <string name="aa">y</string>
+    <string name="kg">kg</string>
+    <string name="mistake">Datos incorrectos. No puedo calcular.</string>
+    <string name="suggestion">Su peso debe "\n" estar entre</string>
+    <string name="back">calcular de nuevo</string>
+    <string name="send">cuota</string>
+    <string name="myBMI">Su BMI es :</string>
+    <string name="save">salvar</string>
+    <string name="history">historia</string>
+    <string name="ToastY">Salvado con éxito</string>
+    <string name="ToastN">Error al guardar datos</string>
+</resources>
