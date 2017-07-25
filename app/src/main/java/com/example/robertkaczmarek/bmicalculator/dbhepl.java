@@ -11,17 +11,17 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 /**
- * Created by robertkaczmarek on 05.05.2017.
+ * Created by irena& robertkaczmarek on 05.05.2017.
  */
 
 public class dbhepl extends SQLiteOpenHelper implements BaseColumns {
 
-    public static final String BAZA_NAME = "historyResult";
-    public static final String TABLE_NAME = "historyTable";
-    public static final String WEIGHT = "weight";
-    public static final String BMI = "bmi";
-    public static final String DATA_TIME = "data";
-    public static final int VERSION = 1;
+    protected static final String BAZA_NAME = "historyResult";
+    protected static final String TABLE_NAME = "historyTable";
+    protected static final String WEIGHT = "weight";
+    protected static final String BMI = "bmi";
+    protected static final String DATA_TIME = "data";
+    protected static final int VERSION = 1;
 
 
 

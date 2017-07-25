@@ -7,7 +7,7 @@
     <string name="clear">Limpiar</string>
     <string name="getheight">en centimetros</string>
     <string name="getweight">en kilogramos</string>
-    <string name="result">"    "</string>
+    <string name="result1">"    "</string>
     <string name="comment">"    "</string>
     <string name="comment2">"    "</string>
     <string name="norma">Peso normal</string>
@@ -20,7 +20,6 @@
     <string name="fatF">Obesidad I el grado</string>
     <string name="fatG">Obesidad II el grado</string>
     <string name="fatH">Obesidad III el grado</string>
-    <string name="oooo">Su peso debr ser</string>
     <string name="aa">y</string>
     <string name="kg">kg</string>
     <string name="mistake">Datos incorrectos. No puedo calcular.</string>
@@ -32,4 +31,6 @@
     <string name="history">historia</string>
     <string name="ToastY">Salvado con éxito</string>
     <string name="ToastN">Error al guardar datos</string>
+    <string name="warning">el campo no puede estar vacío</string>
+    <string name="warning1">el campo no puede estar vacío</string>
 </resources>

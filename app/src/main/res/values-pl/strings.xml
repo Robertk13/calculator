@@ -7,7 +7,7 @@
     <string name="clear">Czyść</string>
     <string name="getheight">Wzrost [cm]</string>
     <string name="getweight">Waga [kg]</string>
-    <string name="result">"    "</string>
+    <string name="result1">"    "</string>
     <string name="comment">"    "</string>
     <string name="comment2">"    "</string>
     <string name="norma">Waga w normie</string>
@@ -20,7 +20,6 @@
     <string name="fatF">Otyłość I stopnia</string>
     <string name="fatG">Otyłość II stopnia</string>
     <string name="fatH">Otyłość III stopnia</string>
-    <string name="oooo">Powinieneś ważyć pomiędzy</string>
     <string name="aa">a</string>
     <string name="kg">kg</string>
     <string name="mistake">Nieprawidłowe dane. Nie mogę obliczyć.</string>
@@ -32,4 +31,6 @@
     <string name="history">historia</string>
     <string name="ToastY">Dane zapisane</string>
     <string name="ToastN">Błąd, nie udało zapisać się danych</string>
+    <string name="warning">Pole nie moży być puste</string>
+    <string name="warning1">Pole nie może być puste</string>
 </resources>

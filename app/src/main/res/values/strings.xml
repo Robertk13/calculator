@@ -30,6 +30,8 @@
     <string name="history">history</string>
     <string name="ToastY">saved successfully</string>
     <string name="ToastN">ailed to save data</string>
+    <string name="warning">Field can not be empty</string>
+    <string name="warning1">Field can not be empty</string>
 
 
     <!--<string type="norma" name="normaSuffix"></string>-->

@@ -20,8 +20,8 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class result1 extends AppCompatActivity {
-    public static final String WEIGHT = "weight";
-    public static final String HEIGHT = "height";
+    protected static final String WEIGHT = "weight";
+    protected static final String HEIGHT = "height";
     String fit;
   //  String min;
 //    String max;

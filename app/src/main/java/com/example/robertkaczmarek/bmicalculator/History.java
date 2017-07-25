@@ -12,7 +12,7 @@ import java.util.List;
 
 public class History extends AppCompatActivity {
 
-    public static final String history = "history";
+    protected static final String history = "history";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

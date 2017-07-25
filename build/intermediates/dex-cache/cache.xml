@@ -3,60 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Irena\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
-        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_b1049025cb5ea66eaa5f3f403180d59ad58f0c8d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_fb7e3394ee9708ce6d4fea407e9c7f8685ba53e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_7d68e999e05732b2c3d569a8b37c81e33d39a5ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_c85197fc9b304ccd51bcafc2999e9491745282bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
-        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha7_b93ab3e52e94d3cfa1384026f68b59c464b48af0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_d70cc3cc18a865977ec30fccdb6b77a88d0d7413.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -84,6 +30,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Irena\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_b1049025cb5ea66eaa5f3f403180d59ad58f0c8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_fb7e3394ee9708ce6d4fea407e9c7f8685ba53e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_7d68e999e05732b2c3d569a8b37c81e33d39a5ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -93,12 +66,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_c85197fc9b304ccd51bcafc2999e9491745282bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha7_b93ab3e52e94d3cfa1384026f68b59c464b48af0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
         <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_dcfc36d7f01e5ddfabda2a7aedbaf34268d9575b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Irena\AndroidStudioProjects\bmi-calculator\avirto-bmi-calculator-07fa4d451852\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_d70cc3cc18a865977ec30fccdb6b77a88d0d7413.jar" />
     </item>
     <item
         is-multidex="false"
